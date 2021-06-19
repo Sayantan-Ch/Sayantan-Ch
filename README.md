@@ -21,12 +21,11 @@
 <p align="center" >
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/aniket-pal/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100005738866655"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/itzaniket_762/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://itzaniket762.medium.com/"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/goodnotes.png"/></a>
-	<a href="https://img.icons8.com/cotton/100/000000/facebook.png"><img alt="facebook" width="8%" style="padding:5px" src="https://img.icons8.com/cotton/100/000000/facebook.png"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100004805536688"><img alt="facebook" width="8%" style="padding:5px" src="https://img.icons8.com/cotton/100/000000/facebook.png"/></a>
 	<a href="https://www.instagram.com/sayantan__ch/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/cotton/100/000000/instagram-new.png"/></a>
 	<a href="https://twitter.com/home"><img alt="twitter" width="8%" style="padding:5px" src="https://img.icons8.com/cotton/100/000000/twitter.png"/></a>
+	
+	
 
 </p>
 
