@@ -4,14 +4,14 @@
 
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/c0/6c/89/c06c89bec6609263981ee5ca131df76f.png" padding="5px" />
 
-- 🔭 I’m currently working on developing coding skills 
-- 🌱 I’m currently focusing on DevOps
+## I'm a Student and Aspiring Developer!!
+
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Github
-- 🥅 2021 Goals: Be a better human 
-- 💬 Ask me about anything
-- 📬 How to reach me: aniketindian8@gmail.com 
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Oneday I will make it happen 
+- 🥅 2021 Goals: Learn a minimun of 3 three skills.
+- 👯 I’m looking to collaborate with other developers
+- ⚡ Fun fact: I love to play 🎸 and 🏀
+
 
 </br>
 
@@ -29,7 +29,7 @@
 
 
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=aniket762&count_private=true&theme=radical"/></p>
+
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
