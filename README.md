@@ -51,5 +51,5 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-<h2 align='center'>Feel free to connect !! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="35"> </h2> 
+<h2 align='center'>Feel free to connect !! <img alt="wave" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15085975-My-3D-Custom-Toy-Face&psig=AOvVaw1sqWV3y-sxkN-PzO2A5vYz&ust=1624191530003000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCXn5XXo_ECFQAAAAAdAAAAABAK" width="35"> </h2> 
 
