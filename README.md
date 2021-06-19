@@ -49,5 +49,5 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-<h3 align='center'>Feel free to connect !! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35"> </h3> 
+<h2 align='center'>Feel free to connect !! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="35"> </h2> 
 
