@@ -2,7 +2,7 @@
 
 
 
-<img align="right" height="250px" alt="GIF" src="https://cdn.dribbble.com/users/3020080/screenshots/15085975/media/25530f071f257c7c94ee33d75441fa62.png?compress=1&resize=800x600" padding="5px" />
+<img align="right" height="250px" alt="GIF" src="https://www.linkpicture.com/q/Screenshot-2021-06-19-at-10.08.13-AM.png" padding="5px" />
 
 ## I'm a Student and Aspiring Developer!!
 
