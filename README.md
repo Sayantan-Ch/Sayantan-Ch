@@ -51,5 +51,5 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-<h2 align='center'>Feel free to connect !! <img alt="wave" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15085975-My-3D-Custom-Toy-Face&psig=AOvVaw1sqWV3y-sxkN-PzO2A5vYz&ust=1624191530003000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCXn5XXo_ECFQAAAAAdAAAAABAK" width="35"> </h2> 
+<h2 align='center'>Feel free to connect !! <img alt="wave" src="https://cdn.dribbble.com/users/3020080/screenshots/15085975/media/25530f071f257c7c94ee33d75441fa62.png?compress=1&resize=800x600" width="35"> </h2> 
 
