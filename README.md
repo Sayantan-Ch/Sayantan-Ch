@@ -1,6 +1,6 @@
 <h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!It's Sayantan   </h1>
 
-![](https://activity-graph.herokuapp.com/graph?username=aniket762&theme=react-dark&hide_border=true&area=true)
+
 
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/c0/6c/89/c06c89bec6609263981ee5ca131df76f.png" padding="5px" />
 
