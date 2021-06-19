@@ -14,7 +14,7 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="64px" src="<a href="<img src="<a href="https://icons8.com/icon/68184/instagram">Instagram icon by Icons8</a>"/>">Instagram icon by Icons8</a>" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="24px" src="<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" />][instagram]
 
 <br />
 
