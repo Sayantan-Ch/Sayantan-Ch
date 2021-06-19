@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Github
-- 🥅 2021 Goals: Learn a minimun of 3 three skills.
+- 🥅 2021 Goals: Learn a minimun of 3 skills.
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to play 🎸 and 🏀
 
