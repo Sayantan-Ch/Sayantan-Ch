@@ -49,5 +49,5 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
+<h3 align='center'>Feel free to connect !! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35"> </h3> 
 
