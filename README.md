@@ -6,7 +6,8 @@
 
 ## I'm a Student and Aspiring Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning python based frameworks and DevOps. 
+- ⌨️ Love to work on projects with real life applications.
 - 👯 I’m looking to collaborate on Github
 - 🥅 2022 Goals: Learn a minimun of 3 skills.
 - 👯 I’m looking to collaborate with other developers.
