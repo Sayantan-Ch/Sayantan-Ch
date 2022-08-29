@@ -3,7 +3,7 @@
 
 
 <img align="right" height="300px" alt="wave" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG"  width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 ## I'm a Student and Aspiring Developer!!
 
 - 🌱 I’m currently learning python based frameworks and DevOps. 
