@@ -2,7 +2,7 @@
 
 
 <iframe src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG">via GIPHY</a></p>
-<img align="right" height="300px" alt="GIF" src="https://www.linkpicture.com/q/Screenshot_2021-06-19_at_10.08.13_AM-removebg-preview.png" padding="5px" />
+<img align="right" height="300px" alt="GIF" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG"  width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 ## I'm a Student and Aspiring Developer!!
 
