@@ -2,8 +2,8 @@
 
 
 <iframe src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG">via GIPHY</a></p>
-<img align="right" height="300px" alt="GIF" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG"  width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
-
+<img align="right" height="300px" alt="wave" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG"  width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+<img alt="wave" src="[https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420](https://giphy.com/embed/Q7SKqn3G97xpmfSOvG)" width="35">
 ## I'm a Student and Aspiring Developer!!
 
 - 🌱 I’m currently learning python based frameworks and DevOps. 
