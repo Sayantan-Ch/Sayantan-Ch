@@ -1,17 +1,32 @@
-<h1 align="center">Hey!! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35"> <br> It's Sayantan !!  </h1>
 
 
 
-<img align="right" height="300px" alt="wave" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG"  width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
-<img src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG.gif" width="40" height="40" />
-# I'm a Student and Aspiring Developer!!
 
-- 🌱 I’m currently learning python based frameworks and DevOps. 
+# Hi, I'm Sayantan! 👋
+
+## 🚀 About Me
+I'm a Student and Full-Stack Developer!!
+
+- 🌱 I’m currently learning Python based frameworks like Django and cross technology implementations. 
 - ⌨️ Love to work on projects with real life applications.
 - 👯 I’m looking to collaborate on Github
 - 🥅 2022 Goals: Learn a minimun of 3 skills.
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to play 🎸 and 🏀
+
+
+
+
+
+
+
+
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Python, ReactJS, NodeJS, Django, Cloud Services.
+
 
 
 </br>
