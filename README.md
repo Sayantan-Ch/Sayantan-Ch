@@ -10,7 +10,7 @@ I'm a Student and Full-Stack Developer!!
 - 🌱 I’m currently learning Python based frameworks like Django and cross technology implementations. 
 - ⌨️ Love to work on projects with real life applications.
 - 👯 I’m looking to collaborate on Github
-- 🥅 2022 Goals: Learn a minimun of 3 skills.
+- 🥅 2023 Goals: Learn a minimun of 3 skills.
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to play 🎸 and 🏀
 
