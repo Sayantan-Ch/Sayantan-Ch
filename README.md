@@ -26,7 +26,7 @@ I'm a Student and Full-Stack Developer!!
 
 ## 🛠 Skills
 Java, Go, Javascript, HTML, CSS, Python, ReactJS, NodeJS, Django, Flask,  Cloud Services.
-<img src="https://icons8.com/icon/13679/java">
+<img src="https://icons8.com/icon/13679/java.svg">
 
 
 </br>
