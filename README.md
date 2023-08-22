@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a Student and Full-Stack Developer!!
 
-- 🌱 I’m currently learning Python based frameworks like Django and cross technology implementations. 
+- 🌱 I’m currently learning GO and contributing to Open Source Projects. 
 - ⌨️ Love to work on projects with real life applications.
 - 👯 I’m looking to collaborate on Github
 - 🥅 2023 Goals: Learn a minimun of 3 skills.
@@ -25,8 +25,8 @@ I'm a Student and Full-Stack Developer!!
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Python, ReactJS, NodeJS, Django, Cloud Services.
-
+Java, Go, Javascript, HTML, CSS, Python, ReactJS, NodeJS, Django, Flask,  Cloud Services.
+<img src="https://icons8.com/icon/13679/java">
 
 
 </br>
